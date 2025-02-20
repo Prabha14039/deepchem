@@ -95,8 +95,6 @@ pip install --pre deepchem
 
 ### Docker
 
-If you want to install deepchem using a docker, you can pull two kinds of images.
-DockerHub : https://hub.docker.com/repository/docker/deepchemio/deepchem
 
 - `deepchemio/deepchem:x.x.x`
   - Image built by using a conda (x.x.x is a version of deepchem)
